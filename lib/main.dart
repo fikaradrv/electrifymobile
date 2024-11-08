@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:electrifymobile/menu.dart';
+import 'package:electrifymobile/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());

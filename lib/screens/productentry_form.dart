@@ -101,7 +101,7 @@ class _ProductEntryFormPageState extends State<ProductEntryFormPage> {
                   },
                   validator: (String? value) {
                     if (value == null || value.isEmpty) {
-                      return "Feelings tidak boleh kosong!";
+                      return "Description tidak boleh kosong!";
                     }
                     return null;
                   },

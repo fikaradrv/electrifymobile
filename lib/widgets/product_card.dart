@@ -4,6 +4,7 @@ import 'package:electrifymobile/screens/list_productentry.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
 import 'package:electrifymobile/screens/login.dart';
+import 'package:electrifymobile/models/product_entry.dart';
 
 class ItemHomepage {
     final String name;
